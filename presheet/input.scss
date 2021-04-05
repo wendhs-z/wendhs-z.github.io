@@ -1,0 +1,12 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-background-color: #333;
+$light-font-color: #ededed;
+
+body {
+  font: 100% $font-stack;
+  background-color: $primary-background-color;
+}
+
+p {
+	color: $light-font-color;
+}
